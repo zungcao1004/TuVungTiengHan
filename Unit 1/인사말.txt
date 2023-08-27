@@ -1,0 +1,9 @@
+인사말 		Lời chào
+안녕하세요?	Xin chào?
+안녕하십니까?	Xin chào?
+
+안녕히 가셔요.	Tạm biệt. (Đi về bình an)
+안녕히 계세요. 	Tạm biệt. (Ở lại bình an)
+
+처음 뵙겠습니다 	Lần đầu được gặp mặt.
+반감습니다	Rất vui được gặp.

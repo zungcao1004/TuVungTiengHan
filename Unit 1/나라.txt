@@ -1,0 +1,17 @@
+나라 		Quốc gia
+한국 		Hàn Quốc
+베트남 		Việt Nam
+말레이시아 	Malaysia
+일본 		Nhật
+미국		Mỹ
+중국		Trung Quốc
+태국		Thái Lan
+호주		Úc
+몽골 		Mông Cổ
+인도네시아	Indonesia
+필리핀		Philippines
+인도		Ấn Độ
+영국 		Anh
+독일		Đức
+프랑스		Pháp
+러시아  		Nga

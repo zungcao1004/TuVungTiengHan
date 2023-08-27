@@ -1,0 +1,15 @@
+직업 		Nghề nghiệp
+교사		Giáo viên
+의사		Bác sĩ
+약사		Dược sĩ
+운전기사		Lái xe
+
+회사원		Nhân viên công ty
+은행원  		Nhân viên ngân hàng
+공무원		Công chức
+
+학생		Học sinh
+관광 가이드	Hướng dẫn viên du lịch
+여행 안내원 	Hướng dẫn viên du lịch
+주부		Nội trợ
+
