@@ -1,0 +1,13 @@
+장소 	nơi chốn	
+학교	trường học
+도서관 	thư viện
+삭당	nhà ăn, nhà hàng
+호텔	khách sạn
+극장	rạp chiếu phim/ nhà hát.
+우체국	bưu điện
+병원	bệnh viện
+은행	ngân hàng
+백화점	trung tâm thương mại
+약국	hiệu thuốc
+가게	cửa hàng
+사무실	văn phòng

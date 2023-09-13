@@ -1,0 +1,13 @@
+학교 시설 	trang thiết bị trường học
+강의실		giảng đường, phòng học
+교실		phòng học
+화장실		phòng vệ sinh
+휴게실		phòng nghỉ
+랩실		phòng lab 어학실
+동아리방		phòng sinh hoạt câu lạc bộ
+체육관		nhà thi đấu thể thao
+운동장		sân vận động
+강당		giảng đường lớn, hội trường
+학생 식당	nhà ăn học sinh
+세미나실		phòng hội thảo
+서점		hiệu sách

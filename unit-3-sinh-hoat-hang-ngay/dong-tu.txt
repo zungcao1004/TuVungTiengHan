@@ -1,0 +1,18 @@
+동사 		động từ
+가다		đi
+오다		đến
+자다		ngủ
+먹다		ăn
+마시다		uống
+이야기하다	nói chuyện
+읽다		đọc
+듣다		nghe
+보다		nhìn, xem
+일하다		làm việc
+공부하다		học
+운동하다		luyện tập thể thao
+쉬다		nghỉ ngơi
+만나다		gặp gỡ
+사다		mua
+줗아하다		thích
+

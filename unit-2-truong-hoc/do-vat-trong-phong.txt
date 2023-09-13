@@ -1,0 +1,16 @@
+교실 물건	đồ vật trong phòng học
+책상 		cái bàn
+의자		cái ghế
+칠판		cái bảng
+문			cửa ra vào
+창문		cửa sổ
+시계		đồng hồ
+가방		cặp sách
+컴퓨터		máy vi tính
+책			sách
+공책		vở
+사전		từ điển
+지우개		cục tẩy
+지도		bản đồ
+펜			bút, viết
+필통		hộp bút
